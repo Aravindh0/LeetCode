@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/Aravindh0/LeetCode/tree/master/0595-big-countries) |
 | [1292-immediate-food-delivery-ii](https://github.com/Aravindh0/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Aravindh0/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aravindh0/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
