@@ -1,6 +1,4 @@
-# Write your MySQL query statement below
-  
-
+/* Write your T-SQL query statement below */
 SELECT 
     ROUND((SUM(CASE 
               WHEN d.order_date = d.customer_pref_delivery_date THEN 1 
