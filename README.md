@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aravindh0/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aravindh0/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Aravindh0/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aravindh0/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aravindh0/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
